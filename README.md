@@ -16,10 +16,10 @@ The lists the parts needed to build set it up.
 | Micro USB Cable | 1 | If you power it from a USB port |
 | Micro USB Power Supply | 1 | If you power it independently you can use [an official 2.5A Power Supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/) |
 
-### Optional 
+### Optional
 
 | Part | Quantity |  Notes |
 |------|:----------:|-------|
-| Case | 1 | With to  40 GPIO cut-out, [the official case is great](https://www.raspberrypi.org/products/raspberry-pi-zero-case/), but I enjoy looking at the board and using [an acrylic case](https://core-electronics.com.au/slim-case-for-raspberry-pi-zero.html)  |
-| Smartphone clamp with 1/4" socket | 1 | I'm using [Manfrotto PIXI](https://www.manfrotto.com/au-en/pixi-clamp-for-smartphone-with-multiple-attachments-mcpixi) but there are alternatives - just make sure they can clamp at around the case; For me it was ~6.5cm for the acrylic or ~7.5cm for the official one. |
+| Case | 1 | With 40 GPIO cut-out, [the official case is great](https://www.raspberrypi.org/products/raspberry-pi-zero-case/), but I enjoy looking at the board and using [an acrylic case](https://core-electronics.com.au/slim-case-for-raspberry-pi-zero.html)  |
+| Smartphone clamp with 1/4" socket | 1 | I'm using [Manfrotto PIXI](https://www.manfrotto.com/au-en/pixi-clamp-for-smartphone-with-multiple-attachments-mcpixi) but there are alternatives - just make sure they can clamp at around a case; For me it was ~6.5cm for the acrylic or ~7.5cm for the official one. |
 | Desktop tripod with 1/4" screw | 1 | I'm using a tripod that comes with Logi C920 |
